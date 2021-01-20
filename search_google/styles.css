@@ -21,3 +21,30 @@
     padding: 10px 20px 10px 20px;
     border: 1px solid white;
 }
+
+#advanced_search {
+    margin: 20px;
+    text-align: left;
+}
+
+#advanced_search input[type="text"] {
+    margin: 10px;
+    width: 75%;
+    height: 25px;
+}
+
+#advanced_search input[type="submit"] {
+    margin: 10px;
+    padding: 8px 12px 8px 12px;
+    float: right;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+#advanced_search span {
+    margin: 10px 0px 10px 0px;
+    width: 22%;
+    height: 25px;
+    float: left;
+}
